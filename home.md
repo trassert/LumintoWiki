@@ -7,8 +7,8 @@ order: 100
 
 ### Приветствую тебя на Люминте!
 Здесь ты можешь ознакомиться с нашим сервером.
-- [**Правила сервера**](https://trassert.ru/wiki/rules/list/)
-- [**На каких версиях играем**](https://trassert.ru/wiki/info/versions/)
+- [**Правила сервера**](https://lumintomc.ru/wiki/rules/list/)
+- [**На каких версиях играем**](https://lumintomc.ru/wiki/info/versions/)
 
 **Краткое описание**  
 На этом сервере вы играете в классическое выживание, но с особенностями - есть:  
@@ -22,7 +22,7 @@ order: 100
 в наш [**чат сервера**](https://t.me/lumintomc).  
 
 ### Полезные ссылки:
-- [**Карта сервера**](http://trassert.ru/map)
+- [**Карта сервера**](http://lumintomc.ru/map)
 - [**Чат сервера**](https://t.me/lumintomc)
 - [**Телеграм-канал сервера**](https://t.me/lumintoch)
 - [**Мод-пак Luminto**](https://github.com/trassert/LumintoModpack)
